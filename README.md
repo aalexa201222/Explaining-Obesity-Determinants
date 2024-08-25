@@ -15,10 +15,15 @@ The dataset used for this project is the "Estimation of obesity levels based on 
 
 ## Models Implemented
 **1. Decision Trees:** A simple, interpretable model that helps understand the relationships between features and obesity levels.
+
 **2. Random Forests:** An ensemble method that improves accuracy by combining multiple decision trees.
+
 **3. LightGBM:** A gradient boosting framework known for efficiency and speed, especially on large datasets.
+
 **4. RuleFit:** Combines ensemble methods with linear models to generate interpretable rules.
+
 **5. Neural Networks:** A feed-forward neural network used for classification tasks.
+
 **6. Explainable Boosting Machines (EBM):** Provides both local and global explanations, combining linear model interpretability with decision tree flexibility.
 
 ## Explainability Techniques
